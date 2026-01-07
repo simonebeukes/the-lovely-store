@@ -1,0 +1,7 @@
+/* Styles for image hover effect */
+
+.img-hover:hover {
+    transform: scale(1.05);
+    transition: .5s ease-in-out;
+
+}
